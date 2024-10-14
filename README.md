@@ -19,7 +19,7 @@ Files in the release archives have the following naming pattern:
 
 ## Copyrights and License
 
-The ROMs of ESP32 series of chips are Copyright (c) 2015-2022 Espressif Systems (Shanghai) Co. Ltd.
+The ROMs of ESP32 series of chips are Copyright (c) 2015-2024 Espressif Systems (Shanghai) Co. Ltd.
 
 The ROMs also include various third-party libraries. The list along with the respective licenses is available [here](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/COPYRIGHT.html#rom-source-code-copyrights).
 
